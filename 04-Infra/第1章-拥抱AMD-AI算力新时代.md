@@ -353,9 +353,6 @@ print(torch.version.hip)
 ```bash
 pip install torchvision datasets matplotlib
 ```
-  ```bash
-  pip install torchvision datasets matplotlib
-  ```
 
 #### 💻 完整训练脚本示例
 
